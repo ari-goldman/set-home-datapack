@@ -3,6 +3,7 @@ scoreboard objectives add homey dummy
 scoreboard objectives add homez dummy
 scoreboard objectives add homeyaw dummy
 scoreboard objectives add homepitch dummy
+scoreboard objectives add homedim dummy
 scoreboard objectives add home trigger
 scoreboard objectives add set_home trigger
 
